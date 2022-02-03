@@ -9,7 +9,7 @@ const gettingLocation = ref(false);
 const errorStr = ref(null);
 
 onMounted(() => {
-  getStuff();
+  // getStuff();
 });
 
 function getStuff() {
